@@ -38,4 +38,4 @@ out/
 
 ### Kotlin ###
 .kotlin
-application.yml
+application-local.yml
