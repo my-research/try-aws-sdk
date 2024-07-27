@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    aws:
+      credentials:
+        access-key: ${AWS_ACCESS_KEY:ABC}
+        secret-key: ${AWS_SECRET_KEY:lrz}
