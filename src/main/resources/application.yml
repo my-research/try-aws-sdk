@@ -4,3 +4,5 @@ spring:
       credentials:
         access-key: ${AWS_ACCESS_KEY:ABC}
         secret-key: ${AWS_SECRET_KEY:lrz}
+      region:
+        static: ap-northeast-2
